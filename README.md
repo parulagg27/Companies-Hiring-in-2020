@@ -10,6 +10,7 @@ If you come across more such relevant resources or have a suggestion, feel free 
 1. Jobs and internships for College Students: [Hiring2020](https://github.com/gcreddy42/hiring2020)
 1. Who's Still Hiring in 2020: [TeamBlind](https://www.teamblind.com/whoshiring)
 1. [Remote Opportunities from Companies fighting against Climate Change.](https://climate.careers/jobs/?q&l=remote)
+1. [2500+ Companies Hiring Remotely in 2020](https://remotive.io/remote-companies): A crowd-sourced list of Remote companies
 
 
 ## Additional Resources
