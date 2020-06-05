@@ -16,4 +16,4 @@ If you come across more such relevant resources or have a suggestion, feel free 
 ## Additional Resources/ Blogposts
 
 1. [Curated list of free resources for Job Seekers](https://docs.google.com/spreadsheets/d/1HPZelBxsFJraQ0MgUHha6RRttkXvJKDBN0ihSUbeAIY/edit?fbclid=IwAR0pOX7tIkeru7NE9Evkwp4SqpfvvsJRGUPvAzIomaDW9Wv1UBMyMGTMWNk#gid=0): Includes Resume reviews, Mentor feedback, consultation with HRs, corporate programs, free courses, etc.
-1. [An undergraduate's experience clearing 8+ Software Engineer Interviews](https://naman.sh/software-engineer-internship-interviews/)
+1. [An undergraduate's experience clearing 8+ Software Engineer internship interviews](https://naman.sh/software-engineer-internship-interviews/)
